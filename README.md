@@ -11,6 +11,7 @@
 ### 3. Работа по теме «Patterns»
 
 3.1. [«Patterns. Задание 1. Заказ доставки карты (изменение даты)»](https://github.com/Ev-genia-Moon/Patterns)
+
 3.2. [«Patterns. Задание 2. Тестовый режим»](https://github.com/Ev-genia-Moon/Patterns2)
 
 ### 4. Работа по теме «Behaviour Driven Development»
