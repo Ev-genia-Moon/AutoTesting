@@ -1,34 +1,30 @@
 # Домашние работы по курсу Автоматизированное тестирование
 
-### 1. Работа по теме «Основы автоматизаци»
+### 1. Работа по теме «Тестирование веб-интерфейсов, Selenium и Selenide»
 
 1.1. [«Тестирование веб-интерфейсов, Selenium и Selenide»](https://github.com/Ev-genia-Moon/Selenium1)
 
-### 2. Работа по теме «Примитивные типы данных и условные операторы»
+### 2. Работа по теме «Selenide»
 
-2.1. [«Примитивные типы данных и условные операторы. Задание 1»](https://github.com/Ev-genia-Moon/Task2/tree/main)
+2.1. [«Selenide»](https://github.com/Ev-genia-Moon/Selenide)
 
-2.2. [«Примитивные типы данных и условные операторы. Задание 2»](https://github.com/Ev-genia-Moon/Task2p2/tree/main)
+### 3. Работа по теме «Patterns»
 
-### 3. Работа по теме «Testability. Введение в ООП»
+3.1. [«Patterns»](https://github.com/Ev-genia-Moon/Patterns2)
 
-3.1. [«Testability. Введение в ООП»](https://github.com/Ev-genia-Moon/Task3p2/tree/main)
+### 4. Работа по теме «Behaviour Driven Development»
 
-### 4. Работа по теме «Система сборки Maven, управление зависимостями, авто-тесты на JUnit5»
+4.1. [«Behaviour Driven Development»](https://github.com/Ev-genia-Moon/BDD)
 
-4.1. [«Система сборки Maven»](https://github.com/Ev-genia-Moon/Task4Maven/tree/main)
+### 5. Работа по теме «Docker и Docker Compose»
 
-### 5. Работа по теме «Пакеты и циклы»
+5.1. [«Docker и Docker Compose»](https://github.com/Ev-genia-Moon/Docker2)
 
-5.1. [ «Пакеты и циклы»](https://github.com/Ev-genia-Moon/Task6Maven)
+### 6. Работа по теме «SQL»
 
-### 6. Работа по теме «Строки и массивы»
+6.1. [«SQL»](https://github.com/Ev-genia-Moon/SQL)
 
-6.1. [«Строки и массивы»](https://github.com/Ev-genia-Moon/Task7Maven)
+### 7. Работа по теме «Репортинг: Report Portal»
 
-### 7. Работа по теме «Выстраивание процесса непрерывной интеграции»
-
-7.1. [«Выстраивание процесса непрерывной интеграции»](https://github.com/Ev-genia-Moon/Task8CI/tree/master)
-
-### 8. Работа по теме «Объектно-ориентированное программирование: ключевые принципы» 
+7.1. [«Репортинг: Report Portal»](https://github.com/Ev-genia-Moon/Allure)
 
